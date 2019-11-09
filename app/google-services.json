@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "292591623317",
+    "firebase_url": "https://watchout-95848.firebaseio.com",
+    "project_id": "watchout-95848",
+    "storage_bucket": "watchout-95848.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292591623317:android:7dbeabe50c069800",
+        "android_client_info": {
+          "package_name": "com.example.ise.watchout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292591623317-k8mua41ft7k5bf2kbo1kuulpd6lpvt9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2rIuI-vvGAA6EPIRlDaqpXE7fTHq4nz8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
